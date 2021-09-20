@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Time_Management_Application": {
+      "commandName": "Project",
+      "sqlDebugging": false,
+      "nativeDebugging": false,
+      "jsWebView2Debugging": true
+    }
+  }
+}
